@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/mtumilowicz/java-streams-laziness-needs-pure-functions.svg?branch=master)](https://travis-ci.com/mtumilowicz/java-streams-laziness-needs-pure-functions)
+
 # java-streams-laziness-needs-pure-functions
 Example why java streams laziness needs pure functions.
 
